@@ -4,6 +4,21 @@ Here's a more detailed version of your **README.md** file for the AI Blog Genera
 
 # AI Blog Generator
 
+AI_BLOG_APP/
+├── Blog_generator/
+│   ├── migrations/
+│   ├── templates/
+│   │   ├── index.html
+│   │   ├── all-blogs.html
+│   │   ├── blog-details.html
+│   │   └── login.html
+│   │   └── signup.html
+│   ├── views.py
+│   ├── urls.py
+│   └── models.py
+└── manage.py
+
+
 This is a **Django**-based web application that generates blog content from video and audio inputs using **OpenAI's Language Model**. The application takes multimedia content, processes it, and produces high-quality, well-structured blog posts. It is designed to make content creation easier by automating the blog generation process.
 
 ## Features
