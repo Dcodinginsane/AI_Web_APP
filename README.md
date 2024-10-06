@@ -19,7 +19,7 @@ This is a **Django**-based web application that generates blog content from vide
 1. Clone the repository:
 
    ```bash
-  https://github.com/Dcodinginsane/AI_Web_APP.git
+    https://github.com/Dcodinginsane/AI_Web_APP.git
    ```
 
 2. Navigate to the project directory:
